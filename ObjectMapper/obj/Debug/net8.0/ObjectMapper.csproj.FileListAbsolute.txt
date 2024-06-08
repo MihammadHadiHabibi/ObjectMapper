@@ -1,0 +1,14 @@
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ObjectMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ObjectMapper.AssemblyInfoInputs.cache
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ObjectMapper.AssemblyInfo.cs
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ObjectMapper.csproj.CoreCompileInputs.cache
+D:\Asp .net core\ObjectMapper\ObjectMapper\bin\Debug\net8.0\ObjectMapper.exe
+D:\Asp .net core\ObjectMapper\ObjectMapper\bin\Debug\net8.0\ObjectMapper.deps.json
+D:\Asp .net core\ObjectMapper\ObjectMapper\bin\Debug\net8.0\ObjectMapper.runtimeconfig.json
+D:\Asp .net core\ObjectMapper\ObjectMapper\bin\Debug\net8.0\ObjectMapper.dll
+D:\Asp .net core\ObjectMapper\ObjectMapper\bin\Debug\net8.0\ObjectMapper.pdb
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ObjectMapper.dll
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\refint\ObjectMapper.dll
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ObjectMapper.pdb
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ObjectMapper.genruntimeconfig.cache
+D:\Asp .net core\ObjectMapper\ObjectMapper\obj\Debug\net8.0\ref\ObjectMapper.dll
